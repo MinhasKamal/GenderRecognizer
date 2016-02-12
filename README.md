@@ -4,7 +4,9 @@ Tries to recognize male and female using template method.
 
   <div align="center">
   <img src="https://cloud.githubusercontent.com/assets/5456665/13002797/83f8a84a-d19b-11e5-93e7-95fe759b5faa.png" height="100" width="100" title="female">
+  <img src="https://cloud.githubusercontent.com/assets/5456665/13002977/e8df20f8-d19c-11e5-81ac-ce5b1c96dcf8.jpg" height="100" width="100" title="female">
   <img src="https://cloud.githubusercontent.com/assets/5456665/13002798/83f965a0-d19b-11e5-867a-26abfc4f08d8.png" height="100" width="100" title="male">
+  <img src="https://cloud.githubusercontent.com/assets/5456665/13002976/e8dc9a04-d19c-11e5-979a-363db5f6b1a4.jpg" height="100" width="100" title="male">
   </div>
 
 # License
