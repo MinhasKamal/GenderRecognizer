@@ -1,7 +1,7 @@
 # Gender Recognizer
 #### Plain Face Detector & Gender Recognizer
 
-Give image of a person (frontal face), and this program will try to recognize male and female using **Template Matching**. Face detection part is accomplished using OpenCV.
+Give image of a person (frontal face), and [this program](http://minhaskamal.github.io/GenderRecognizer) will try to recognize male and female using **Template Matching**. Face detection part is accomplished using OpenCV.
 
 ### How to Run?
 1. Import the project in IDE, & integrate [OpenCV](http://opencv.org) in the build path. Follow [this](http://docs.opencv.org/2.4/doc/tutorials/introduction/java_eclipse/java_eclipse.html) link for installing OpenCV in Java project.
