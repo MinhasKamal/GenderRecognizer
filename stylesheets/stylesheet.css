@@ -57,10 +57,10 @@ body {
 }
 
 a {
-  color: #d5000d;
+  color: #e64d00;
 }
 a:hover {
-  color: #c5000c;
+  color: #b33c00;
 }
 
 header {
@@ -320,10 +320,10 @@ footer {
 }
 
 footer a {
-  color: #666;
+  color: #e64d00;
 }
 footer a:hover {
-  color: #444;
+  color: #b33c00;
 }
 
 /* MISC */
