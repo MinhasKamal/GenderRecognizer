@@ -1,6 +1,8 @@
 # :couple: Gender Recognizer
 #### Plain Face Detector & Gender Recognizer
 
+[![Join the chat at https://gitter.im/MinhasKamal/GenderRecognizer](https://badges.gitter.im/MinhasKamal/GenderRecognizer.svg)](https://gitter.im/MinhasKamal/GenderRecognizer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Give image of a person (frontal face), and [this program](http://minhaskamal.github.io/GenderRecognizer) will try to recognize male and female using **Template Matching**. Face detection part is accomplished using OpenCV.
 
 ### How to Run?
