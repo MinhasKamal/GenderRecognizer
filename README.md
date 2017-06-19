@@ -18,7 +18,7 @@ Give image of a person or persons ([frontal face like this](https://user-images.
   <img src="https://cloud.githubusercontent.com/assets/5456665/13002977/e8df20f8-d19c-11e5-81ac-ce5b1c96dcf8.jpg" height="100" width=auto title="Female">
   </div>
 
-If you like this project, you may also like [AlphabetRecognizer- Simple Optical Character Recognizer](https://github.com/MinhasKamal/AlphabetRecognizer)
+If you like this project, you may also like [AlphabetRecognizer- Simple Optical Character Recognizer](https://github.com/MinhasKamal/AlphabetRecognizer) and [SkinDetector- Detects Human Skin From Image](https://github.com/MinhasKamal/SkinDetector).
 
 ### License
-<a rel="license" href="https://opensource.org/licenses/MIT"><img alt="MIT License" src="https://cloud.githubusercontent.com/assets/5456665/18950087/fbe0681a-865f-11e6-9552-e59d038d5913.png" width="60em" height=auto/></a><br/><a href="https://github.com/MinhasKamal/DownGit">GenderRecognizer</a> is licensed under <a rel="license" href="https://opensource.org/licenses/MIT">MIT License</a>.
+<a rel="license" href="https://opensource.org/licenses/MIT"><img alt="MIT License" src="https://cloud.githubusercontent.com/assets/5456665/18950087/fbe0681a-865f-11e6-9552-e59d038d5913.png" width="60em" height=auto/></a><br/><a href="https://github.com/MinhasKamal/GenderRecognizer">GenderRecognizer</a> is licensed under <a rel="license" href="https://opensource.org/licenses/MIT">MIT License</a>.
