@@ -1,14 +1,14 @@
-# Gender Recognizer 
+# Gender Recognizer
 
 #### Plain Face Detector & Gender Recognizer
 
-Give image of a person or persons ([frontal face like this](https://user-images.githubusercontent.com/5456665/27283791-ca450e6e-5517-11e7-8a35-a558bee0a483.jpg)), and this program will try to recognize male and female using **Template Matching**. Face detection part is accomplished using OpenCV.
+Give an image of a person or persons ([frontal face like this](https://user-images.githubusercontent.com/5456665/27283791-ca450e6e-5517-11e7-8a35-a558bee0a483.jpg)), and this program will try to recognize male and female using **Template Matching** and **Bayes' Theorem**. The face detection part is accomplished using OpenCV.
 
 ### How to Run?
 1. [Download Gender Recognizer](https://github.com/MinhasKamal/GenderRecognizer/archive/master.zip), and [import](http://www.codejava.net/ides/eclipse/import-existing-projects-into-eclipse-workspace) it in your IDE.
 2. Now, integrate [OpenCV](http://opencv.org) in the build path. Follow [this](http://docs.opencv.org/2.4/doc/tutorials/introduction/java_eclipse/java_eclipse.html) link for installing OpenCV in your Java project.
-3. For training the machine run [**Train.java**](https://github.com/MinhasKamal/GenderRecognizer/blob/master/src/com/minhaskamal/genderRecognizer/Train.java).
-4. For testing run [**Predict.java**](https://github.com/MinhasKamal/GenderRecognizer/blob/master/src/com/minhaskamal/genderRecognizer/Predict.java) (change file-paths in the *main* method according to need).
+3. For training the machine, run [**Train.java**](https://github.com/MinhasKamal/GenderRecognizer/blob/master/src/com/minhaskamal/genderRecognizer/Train.java).
+4. For testing, run [**Predict.java**](https://github.com/MinhasKamal/GenderRecognizer/blob/master/src/com/minhaskamal/genderRecognizer/Predict.java) (change file-paths in the *main* method according to need).
 
 ### Visual of Learned Templates
   <div align="center">
@@ -25,7 +25,7 @@ If you like this project, you may also like [AlphabetRecognizer- Simple Optical 
 ```bibtex
 @misc{Minhas2015GenderRecognizer,
   author    = {Kamal, Minhas},
-  title     = {GenderRecognizer: Create GitHub Resource Download Link},
+  title     = {GenderRecognizer: Plain Face Detector & Gender Recognizer},
   year      = {2015},
   publisher = {GitHub},
   url       = {https://github.com/MinhasKamal/GenderRecognizer}
